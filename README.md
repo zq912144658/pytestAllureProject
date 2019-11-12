@@ -1,0 +1,2 @@
+# pytestAllureProject
+pytest+allure+requests
